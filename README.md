@@ -1,4 +1,4 @@
-# leqat
+# Leqat
 Learning-based query optimization for multi-probe approximate nearest neighbor search.
 
 ## References
@@ -15,7 +15,7 @@ Learning-based query optimization for multi-probe approximate nearest neighbor s
 }
 ```
 
-## Contrubutors
+## Contributors
 [<img src="https://github.com/petrizhang.png" width="60px;"/><br /><sub><a href="https://github.com/petrizhang">@petrizhang</a></sub>](https://github.com/petrizhang)
 
 [<img src="https://github.com/chasingegg.png" width="60px;"/><br /><sub><a href="https://github.com/chasingegg">@chasingegg</a></sub>](https://github.com/chasingegg)
