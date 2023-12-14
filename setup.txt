@@ -1,0 +1,5 @@
+# Copy these commands in your shell to install required packages
+conda create -n tensorflow python=3.8
+conda activate tensorflow
+conda install tensorflow matplotlib scikit-learn jupyter
+conda install faiss-cpu -c pytorch
